@@ -1,5 +1,5 @@
 angular.module('assessment')
-  .directive('product', function() {
+  .directive('productDir', function() {
     return {
       templateUrl: '../views/product-tmpl.html',
       restrict: 'AE',
